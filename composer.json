@@ -1,0 +1,14 @@
+{
+    "name": "tschuermans/enforce-hooks-implementation",
+    "description": "An implementation example of https://github.com/TSchuermans/enforce-hooks",
+    "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/TSchuermans/enforce-hooks"
+        }
+    ],
+    "require-dev": {
+        "tschuermans/enforce-hooks": "dev-master"
+    }
+}
